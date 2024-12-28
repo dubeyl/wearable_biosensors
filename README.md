@@ -10,5 +10,4 @@ Enjoy your reading 😄
 
 
 Co-authors:
-Alessia Bussard
-Olivia Lecomte
+Alessia Bussard and Olivia Lecomte
