@@ -9,5 +9,5 @@ Enjoy your reading 😄
 
 
 
-Co-authors:
+Team members:
 Alessia Bussard and Olivia Lecomte
