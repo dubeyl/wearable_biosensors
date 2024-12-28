@@ -6,3 +6,9 @@ We were asked to analyse this data and to compare the efficacy of the different 
 You can find the analysis in a python notebook and the report in the form of a pdf.
 
 Enjoy your reading 😄
+
+
+
+Co-authors:
+Alessia Bussard
+Olivia Lecomte
